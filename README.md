@@ -1,3 +1,3 @@
-# Human-Resource-Management-System
+# Employment-Management-System
 Employee Management System is a part of Human Resource Management System and has been developed using ASP.Net. The project can be run in Microsoft Visual Studio. It is a portal made for the management of various employees of a certain company by the Managing Director(admin). The portal will also allow the employees(users) to manage their  accounts such as viewing their profiles, applying for leave, changing password and so on. The admin can manage  whether or not to approve the leave, to add new employees to the company and so on. The 'Site.master' and 'Employee.master' are the pages to be run for staring the project.
 An 'internal database' has been linked to the project to save the employee data. The database has to be prepared by the individual on their own :)
